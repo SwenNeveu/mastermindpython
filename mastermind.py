@@ -4,7 +4,7 @@
 
  Very simple game of mastermind - trying out Thinker for Python
  By Rasmus Westerlin, Apps'n Downs, December 2017
-
+qdqsd
  Developed for Python 3.6
 """
 
